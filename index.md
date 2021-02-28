@@ -1,8 +1,8 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Let's Play
 ---
 
-# Welcome to Hollywoo
+# Welcome to my creative therapy space
 
-Hello. I am BoJack. Horseman, obviously
+Thoughts. Reading. Design. Tech.
